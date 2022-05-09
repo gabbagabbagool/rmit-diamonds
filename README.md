@@ -1,12 +1,6 @@
 # maths-2-diamonds
 
-Guidelines:
-- When wanting to add your notebook changes, 
-  it could be useful to save and quit notebooks, 
-  to confirm that the right changes are going to be 
-  staged and not an earlier version of your work
-
-- Please don't change the diamonds.csv file, should 
-  we need a different database we will save it under 
-  a different name. This isn't a huge issue as rolling 
-  back the db should be simple enough.
+This repository contains the final product of work by myself, Thomas Yao and Jacob Hill in which we demonstrated a model of predicting the price of diamonds based on their physical characteristics.
+For this assignment we received 98/100 marks.
+The report can be viewed by opening the html file in a browser, or for demonstration of the code there is the jupyter python notebook.
+The dependencies for the notebook are in the provided requirements.txt file.
